@@ -1,0 +1,18 @@
+#carouselExample {
+  margin: 0px 15px 35px 15px;
+}
+
+.col {
+  width: 19rem;
+}
+
+.container-fluid {
+  background-color: blue;
+  /* padding-top: 15vh; */
+  color: white;
+}
+
+.card {
+  width: 475px;
+  margin-left: 10px;
+}
